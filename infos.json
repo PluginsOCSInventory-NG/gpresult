@@ -1,0 +1,13 @@
+{
+"displayName" : "GPResult",
+"author" : ["Rudy LAURENT"],
+"contributor" : [],
+"supportedAgent" : ["Windows"],
+"version" : "1",
+"licence" : "GPLv2",
+"description" : 
+    {
+        "fr" : "Récupère les informations de la commande GPResult",
+        "en" : "Get informations from GPResult command"
+    }
+}
